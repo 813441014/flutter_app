@@ -29,5 +29,11 @@ void main(){
   }
 
 
-  
+//  https://www.dartlang.org
+//  https://dart.goodev.org/guides/language/language-tour
+
+//  https://dart.goodev.org/guides/language/effective-dart/usage
+//dart官网
+
+//  https://dart.dev/guides/language/language-tour#/using-generic-methods
 }
