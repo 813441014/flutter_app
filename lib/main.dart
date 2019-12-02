@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
 //    _oopLearn();
-    _genericLearn();
+//    _genericLearn();
 //    _testFunction();
     return Scaffold(
       appBar: AppBar(
@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // in the middle of the parent.
         child: ListView(
           children:<Widget>[
-//            dataType()
+            dataType()
           ]
         )
       ),
